@@ -1,2 +1,3 @@
 # python-lessons
-# python-lessons
+## What is python
+Python is a high-level, interpreted programming language that was first released in 1991. It is designed to be easy to read and write, with a syntax that emphasizes code readability and simplicity. Python is an object-oriented language, which means that it uses classes and objects to organize code and data. It also has a large standard library that provides a wide range of functionality, including modules for networking, databases, GUIs, web development, and more. Python is widely used in a variety of industries and applications, from web development and scientific computing to data analysis and machine learning. It is known for its versatility, ease of use, and community support.
