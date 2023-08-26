@@ -5,9 +5,11 @@
 # This is a comment in Python
 print("Hello, world!")
 
+
 def greet(name: str) -> None:
     """This function greets the person passed in as a parameter."""
     print("Hello, " + name + ". How are you?")
+
 
 """
 This is a multi-line comment in Python.
